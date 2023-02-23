@@ -10,7 +10,7 @@
 
 [Link to google](google.com)
 ---
-![picture](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/1280px-Google_Images_2015_logo.svg.png)
+![picture](https://imageio.forbes.com/specials-images/imageserve/6170e01f8d7639b95a7f2eeb/Sotheby-s-NFT-Natively-Digital-1-2-sale-Bored-Ape-Yacht-Club--8817-by-Yuga-Labs/0x0.png?format=png&width=960)
 ### Table of Contents 
 * [Code Folder](https://github.com/xbmm1/fintech1/tree/main/code)
 * [Date Folder](https://github.com/xbmm1/fintech1/tree/main/data)

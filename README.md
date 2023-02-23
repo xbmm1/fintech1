@@ -7,16 +7,12 @@
     * **bold**  
 ### These are words 
 ---
-1. one 
-2. two 
-3. three 
 
-
-
-
+[Link to google](google.com)
+---
 ![picture](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/1280px-Google_Images_2015_logo.svg.png)
 ### Table of Contents 
-* [Code Folder](C:\Users\Brian\Desktop\ASU\fintech1\code)
-* [Date Folder](C:\Users\Brian\Desktop\ASU\fintech1\data)
-* [Image Folder]("C:\Users\Brian\Desktop\ASU\fintech1\images") 
-* [References Folder]("C:\Users\Brian\Desktop\ASU\fintech1\references")
+* [Code Folder](https://github.com/xbmm1/fintech1/tree/main/code)
+* [Date Folder](https://github.com/xbmm1/fintech1/tree/main/data)
+* [Image Folder](https://github.com/xbmm1/fintech1/tree/main/images) 
+* [References Folder](https://github.com/xbmm1/fintech1/tree/main/references)
